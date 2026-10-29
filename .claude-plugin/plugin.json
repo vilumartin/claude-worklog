@@ -1,0 +1,8 @@
+{
+  "name": "claude-worklog",
+  "version": "0.1.0",
+  "description": "Count the hours you really work, per client and project: from Claude sessions, calendar and meeting recaps. Three estimates, a draft timesheet and invoice, all local.",
+  "author": { "name": "Mārtiņš Viļums" },
+  "license": "MIT",
+  "keywords": ["time-tracking", "timesheet", "invoicing", "freelance", "consulting", "hours"]
+}

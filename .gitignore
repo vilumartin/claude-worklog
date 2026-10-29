@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+.DS_Store
+scripts/worklog_prototype_backup.py.txt

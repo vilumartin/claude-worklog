@@ -1,0 +1,12 @@
+{
+  "name": "claude-worklog",
+  "owner": { "name": "Mārtiņš Viļums" },
+  "metadata": { "description": "Time tracking for people who bill by the hour and work with Claude." },
+  "plugins": [
+    {
+      "name": "claude-worklog",
+      "source": "./",
+      "description": "Count the hours you really work, per client and project: from Claude sessions, calendar and meeting recaps. Three estimates, a draft timesheet and invoice, all local."
+    }
+  ]
+}
